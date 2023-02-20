@@ -1,3 +1,2 @@
-こんにちは
-こんにちは
-HELLO
+# Hello rakus
+This is test.
